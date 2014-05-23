@@ -16,6 +16,6 @@ public class gameTest {
 		
 		System.out.println("Player 1: "+ playerOneHand);
 		
-		System.out.println(newInstance.getDeck());
+		//System.out.println(newInstance.getDeck());
 	}
 }
