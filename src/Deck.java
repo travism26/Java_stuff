@@ -61,12 +61,6 @@ public class Deck {
 	}
 	
 	public static void main(String[] args){
-		
-		//Deck newDeck = new Deck();
-		//ArrayList<Card> deck;
-		
-		//ArrayList<Card> deck = newDeck.getDeck();
-		
 		firstInstance.getInstance();
 		firstInstance.printDeck(firstInstance.getDeck());
 	}
