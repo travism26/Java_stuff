@@ -32,5 +32,15 @@ public class employee extends people {
 	public void addSkill(String skill) {
 		this.skills.add(skill);
 	}
+	/*
+	public ArrayList<employee> createEmployees(){
+		ArrayList<String> skills = new ArrayList<String>();
+		skills.add("Java");
+		skills.add("Testing Software");
+		people workers = new employee("Jessica", "Johnson", "Female", 21,
+				"Reception", skills );
+		return
+	}
+	*/
 
 }
